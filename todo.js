@@ -8,13 +8,17 @@ var setClickOnRemove = function(element, button) {
   };
 };
 
-//  Picked up a cold this weekend.  To tired to make this happen.  Will revisit.
+//  Started setting up a function set for storing data in local storage
 //
 // var setLocalStorage = function() {
 
 // };
 
 // var appendLocalStorage = function() {
+
+// };
+
+// var removeLocalStorage = function() {
 
 // };
 
